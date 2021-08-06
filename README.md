@@ -1,5 +1,5 @@
 ## General Info
-Project of zero to mastery
+Capture your face in image
 
 ## Setup
 Clone the repository and execute index.html

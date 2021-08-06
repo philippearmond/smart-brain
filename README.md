@@ -1,5 +1,5 @@
 ## General Info
-Capture your face in image
+Capture your face on image
 
 ## Setup
 Clone the repository and execute index.html

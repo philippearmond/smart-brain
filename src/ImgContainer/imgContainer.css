@@ -1,0 +1,20 @@
+.display-img-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.img-container {
+    height: auto;
+    width: 500px;
+    position: relative;
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}

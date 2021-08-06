@@ -1,0 +1,31 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "robots",
+  "main": "index.js",
+  "scripts": {
+    "app": "webpack -w"
+  },
+  "author": "Philippe Armond",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.1",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "clarifai": "^2.9.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-particles-js": "^3.3.0",
+    "react-tilt": "^0.1.4",
+    "tachyons": "^4.12.0"
+  }
+}
